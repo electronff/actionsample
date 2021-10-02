@@ -17,4 +17,4 @@ jobs:
         iac_version: 'v14'
         policy_type: 'aws'
         only_warn: true
-        sarif_upload: true
+      
